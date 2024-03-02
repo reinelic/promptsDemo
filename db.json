@@ -1,4 +1,4 @@
-[
+{ "prompts" :[
   {
     "id": 1,
     "text": "The weather is beautiful today. I'm thinking about going for a walk in the park and grabbing an iced coffee. What are your plans for the day?"
@@ -70,18 +70,12 @@
   {
     "id": 18,
     "text": "This song always puts me in a good mood! It brings back so many happy memories. What are some of your favorite songs?"
-  },
-  {
-    "id": 19,
-    "text": "I need to take the dog for a walk this afternoon. Anyone want to join me for some fresh air and exercise?"
-  },
-  {
-    "id": 20,
-    "text": "What are you doing this weekend? Anything exciting planned, or are you staying in to relax and recharge?"
-  },
-  {
-    "id": 21,
-    "text": "Just finished cleaning the house, and it feels so good to have it clean and organized. Now I can relax and enjoy the rest of the day."
-  },
-  {
-    "id": 22
+  }
+]
+}
+
+
+
+
+
+  
