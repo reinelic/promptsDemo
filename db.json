@@ -1,18 +1,87 @@
 [
   {
     "id": 1,
-    "title": "Reading 1"
+    "text": "The weather is beautiful today. I'm thinking about going for a walk in the park and grabbing an iced coffee. What are your plans for the day?"
   },
   {
     "id": 2,
-    "title": "Reading 2"
+    "text": "I'm making pancakes for breakfast this morning. They're my specialty! What's your favorite breakfast food to make?"
   },
   {
     "id": 3,
-    "title": "Reading 3"
+    "text": "I just finished reading that book you recommended, 'The Lord of the Rings.' It was a fantastic journey! What are you currently reading?"
   },
   {
-    "id": 3,
-    "title": "Reading 3"
-  }
-]
+    "id": 4,
+    "text": "I'm running a bit late for work this morning. I woke up late and the traffic is terrible. Will you be home soon from your errands?"
+  },
+  {
+    "id": 5,
+    "text": "Can you please pass the salt? I'm trying to season my chicken for dinner. Thank you in advance!"
+  },
+  {
+    "id": 6,
+    "text": "I saw the most amazing sunset last night while walking along the beach. The sky was filled with vibrant colors. You should have been there to experience it!"
+  },
+  {
+    "id": 7,
+    "text": "I need to pick up some groceries after work today. Do you need anything specific, or are you stocked up for the week?"
+  },
+  {
+    "id": 8,
+    "text": "How was your day? Did anything interesting happen at work or school? I'm curious to hear about your day."
+  },
+  {
+    "id": 9,
+    "text": "I'm feeling a little under the weather today. I have a slight headache and a sore throat. I hope it's nothing serious."
+  },
+  {
+    "id": 10,
+    "text": "I'm so excited for the weekend! I'm planning a camping trip with friends in the mountains. What are your plans for the weekend?"
+  },
+  {
+    "id": 11,
+    "text": "Just learned a new recipe for vegetarian chili! I can't wait to try it out this week for dinner. Maybe I can even make enough to share."
+  },
+  {
+    "id": 12,
+    "text": "The traffic is terrible today, just like yesterday. I'm going to be late for my meeting again. I should have left earlier."
+  },
+  {
+    "id": 13,
+    "text": "Can you please help me with this task? I'm a bit stuck on the coding part and can't seem to figure it out."
+  },
+  {
+    "id": 14,
+    "text": "I'm going to the movies tonight to see the new action film everyone's been talking about. Want to come along?"
+  },
+  {
+    "id": 15,
+    "text": "Just bought a new book by my favorite author. Have you read any of their other books? They're all fantastic reads."
+  },
+  {
+    "id": 16,
+    "text": "I'm going to bed early tonight. I'm feeling exhausted after a long day. What time are you planning on hitting the hay?"
+  },
+  {
+    "id": 17,
+    "text": "The coffee machine is broken, and I desperately need a caffeine fix this morning. Do we have any instant coffee in the pantry?"
+  },
+  {
+    "id": 18,
+    "text": "This song always puts me in a good mood! It brings back so many happy memories. What are some of your favorite songs?"
+  },
+  {
+    "id": 19,
+    "text": "I need to take the dog for a walk this afternoon. Anyone want to join me for some fresh air and exercise?"
+  },
+  {
+    "id": 20,
+    "text": "What are you doing this weekend? Anything exciting planned, or are you staying in to relax and recharge?"
+  },
+  {
+    "id": 21,
+    "text": "Just finished cleaning the house, and it feels so good to have it clean and organized. Now I can relax and enjoy the rest of the day."
+  },
+  {
+    "id": 22
