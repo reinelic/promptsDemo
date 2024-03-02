@@ -1,4 +1,4 @@
-[
+{"prompts":[
   {
     "id": 1,
     "text": "The weather is beautiful today. I'm thinking about going for a walk in the park and grabbing an iced coffee. What are your plans for the day?"
@@ -20,7 +20,7 @@
     "text": "Can you please pass the salt? I'm trying to season my chicken for dinner. Thank you in advance!"
   }
 
-]
+]}
 
 
 
