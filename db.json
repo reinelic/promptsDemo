@@ -1,4 +1,4 @@
-{ "prompts" :[
+[
   {
     "id": 1,
     "text": "The weather is beautiful today. I'm thinking about going for a walk in the park and grabbing an iced coffee. What are your plans for the day?"
@@ -72,7 +72,6 @@
     "text": "This song always puts me in a good mood! It brings back so many happy memories. What are some of your favorite songs?"
   }
 ]
-}
 
 
 
